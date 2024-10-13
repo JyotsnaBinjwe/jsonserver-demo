@@ -1,0 +1,22 @@
+{
+  "studs": [
+    {
+      "id": "1",
+      "name": "Nikhil",
+      "subject": "history",
+      "marks": "60"
+    },
+    {
+      "id": "2",
+      "name": "Siddharth",
+      "subject": "science",
+      "marks": "80"
+    },
+    {
+      "id": "3",
+      "name": "Hari",
+      "subject": "Math",
+      "marks": "90"
+    }
+  ]
+}
