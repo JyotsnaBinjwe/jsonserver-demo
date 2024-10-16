@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jsonserver-demo/static/css/main.43768e39.css",
+    "main.js": "/jsonserver-demo/static/js/main.58b4b554.js",
+    "index.html": "/jsonserver-demo/index.html",
+    "main.43768e39.css.map": "/jsonserver-demo/static/css/main.43768e39.css.map",
+    "main.58b4b554.js.map": "/jsonserver-demo/static/js/main.58b4b554.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43768e39.css",
+    "static/js/main.58b4b554.js"
+  ]
+}
